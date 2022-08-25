@@ -1,0 +1,28 @@
+.navbar{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+section{
+    padding-top: 100px;
+    height: 600px;
+}
+#Home{
+    background-color: #f54;
+}
+#about{
+    background-color: chartreuse;
+}
+#blog{
+    background-color: cornflowerblue;
+}
+#projact{
+    background-color: fuchsia;
+}
+#contact{
+    background-color: yellow;
+}
+.navbar .navbar-collapse .navbar-nav .nav-item .active{
+    color: rgb(221, 46, 46);
+}
